@@ -1,0 +1,13 @@
+name = "Taco Mods"
+author = "SLLCoding"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6efc6a320f488bdbbbba180e519dadcd1b277898c39dfb1fb252e10d1ddd5965"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.18.2"
