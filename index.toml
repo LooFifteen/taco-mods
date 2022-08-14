@@ -35,11 +35,6 @@ hash = "1a22f8e7f1718b40216542f41669501144c80bf1c5bbec265177aeaa8e93495a"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.pw.toml"
-hash = "0b9c8fa1e2dfa64f787a0562200f54bb5afc401196dac20a9886c0f92f575b5d"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "d506aff4966cf0049497f348aecb880cd3dbade497746c84a91f6b3b133c47ae"
 metafile = true
