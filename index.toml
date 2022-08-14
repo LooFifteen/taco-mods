@@ -21,6 +21,11 @@ hash = "80e7c9fd868c28612d6e9945044e274399579ab0007285f2ec50caf006c771f3"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "18182cee02eddd04cf7a32fc6b34e566d108ebb011a3238ab0a5366e0b10b5a4"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "199dcfab78b4278c0c51c64fab21c282b162cdd6d9d44071ad3e616a0a38b2da"
 metafile = true
@@ -71,6 +76,11 @@ hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
 metafile = true
@@ -88,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "62ce8fd227fa2a8d9d03dbb3d86f27c0cd65f906ab0312860c93d4195c4036c6"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f229f210a206b6a902cc60f74ed299b141279695a2f970d9fb3d5445975e02b6"
 metafile = true
 
 [[files]]
@@ -198,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/tacocraft-fabric.pw.toml"
 hash = "5c8a810292ce3b24cc43dfbe9e1f1e24340a6556b05cb015163e47b621fa1530"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
 metafile = true
 
 [[files]]
