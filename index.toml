@@ -226,6 +226,11 @@ hash = "3fdc9a7558c912db84c2b62845896e74a1633450a0d2a0721bce6a382b842213"
 metafile = true
 
 [[files]]
+file = "mods/wthit.pw.toml"
+hash = "8a3b712f870b36fb07b311d5a2edc8059a7843ebfee3b5d4a436d014d48e37ea"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
 metafile = true
